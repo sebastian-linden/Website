@@ -1,7 +1,6 @@
 # Hi there 👋
 
-This is the place where I develop my own little website. The idea is to show a few intersting coding projects, that I worked on in the past.
-
+This is the place where I develop my own little website. The idea is to show a few intersting coding projects, that I worked on in the past. However, its still a work in progress.
 Have a look: <a href=http://sebastianlinden.de target="_blank">sebastianlinden.de</a>
 
 
