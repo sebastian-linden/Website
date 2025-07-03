@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+
+This is my personal website, where I learn how to code
+
 
 <!--
 **sebastian-linden/sebastian-linden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
