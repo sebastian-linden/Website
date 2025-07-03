@@ -15,6 +15,12 @@ main {
     padding: 2em;
 }
 
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
 footer {
     background-color: #f0f0f0;
     color: #666;
