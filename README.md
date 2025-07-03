@@ -2,7 +2,7 @@
 
 This is the place where I develop my own little website. The idea is to show a few intersting coding projects<>, that I worked on in the past.
 
-Have a look: <http://sebastianlinden.de>
+Have a look: <a href=http://sebastianlinden.de target="_blank">sebastianlinden.de</a>
 
 
 <!--
